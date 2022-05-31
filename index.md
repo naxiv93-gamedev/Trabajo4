@@ -12,6 +12,7 @@ AngleDisplay es un widget personalizable desarrollado en Qt. Está diseñado par
 Parametros:
 + colors: Lista de colores (en hex)
   - Valor por defecto: [0x498BD1,"#FF0000","#00FF00","#0000FF"]
++ Implementacion de la funcion:
 ```
  def __init__(self,colors = [0x498BD1,"#FF0000","#00FF00","#0000FF"]):
         QWidget.__init__(self)
