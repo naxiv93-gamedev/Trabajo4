@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/naxiv93-gamedev/Trabajo4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##Bienvenido a la documentacion del Trabajo 4 de Desarrollo de Interfaces 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
