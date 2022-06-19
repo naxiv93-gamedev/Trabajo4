@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: AngleDisplay
+Version: 0.1
+Summary: Display de angulo
+Home-page: https://github.com/naxiv93-gamedev/Trabajo4
+Author: naxiv93-gamedev
+Author-email: ivandiaz93@gmail.com
+License: MIT
+Download-URL: https://github.com/naxiv93-gamedev/Trabajo4/archive/v0.1.tar.gz.
+Keywords: test example develop
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+
+UNKNOWN
+

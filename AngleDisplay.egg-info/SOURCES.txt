@@ -1,0 +1,8 @@
+AngleDisplay.py
+AngleDisplayTest.py
+BearingCalc.py
+setup.py
+AngleDisplay.egg-info/PKG-INFO
+AngleDisplay.egg-info/SOURCES.txt
+AngleDisplay.egg-info/dependency_links.txt
+AngleDisplay.egg-info/top_level.txt

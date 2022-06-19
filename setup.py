@@ -2,7 +2,7 @@ from setuptools import setup
  
 setup(
     name='AngleDisplay',
-    packages=['Trabajo4'], # Mismo nombre que en la estructura de carpetas de arriba
+    packages=[''], # Mismo nombre que en la estructura de carpetas de arriba
     version='0.1',
     license='MIT', # La licencia que tenga tu paquete
     description='Display de angulo',
